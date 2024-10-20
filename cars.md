@@ -33,6 +33,7 @@
   - **Abgedunkelte Scheiben**
   - **ABS**
   - **Abstandswarner**
+  - **Anhängerkupplung (abnehmbar)**
   - Ausparkassistent
   - **Berganfahrassistent**
   - Bluetooth
