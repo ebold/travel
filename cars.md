@@ -1,3 +1,5 @@
+# 1. Selected models
+
 | Model, 7 seater | Toyota Corolla Verso | Mitsubishi Outlander 2.0 4WD | Nissan X-Trail 1,6 (T32) | Peugeot 5008 | Ford S-Max, 2018- | Seat Alhambra |
 | --- | --- | --- | --- | --- | --- | --- |
 | Motor, Otto | 1,8L VVT-i (1ZZE-FE), chain | 2,0L, CVT | 1,6L DIG-T, turbo, chain | 1,6L, EAT6, turbo, chain | 1,5L, turbo, belt | 1,4L, TSI, turbo, belt (CZDA, VWEA211) |
@@ -24,3 +26,63 @@
 | Reference | - | [2.0 Spirit+ 4WD][outlander1] | - | - | - | - |
 
 [outlander1]: https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mitsubishi/outlander/3generation-facelift-2/310619/#technische-daten
+
+# 2. Desired equipments (Ausstattung)
+
+## 2.1. Must have:
+  - **Abgedunkelte Scheiben**
+  - **ABS**
+  - **Abstandswarner**
+  - Ausparkassistent
+  - **Berganfahrassistent**
+  - Bluetooth
+  - **Dachreling**
+  - **Elektr. Fensterheber**
+  - **Elektr. Seitenspiegel**
+  - Elektr. Seitenspiegel anklappbar
+  - **ESP**
+  - Freisprecheinrichtung
+  - Gepäckraumabtrennung
+  - **Innenspiegel autom. abblendend**
+  - **Isofix**
+  - LED-Scheinwerfer
+  - **LED-Tagfahrlicht**
+  - Leichtmetallfelgen
+  - **Lichtsensor**
+  - **Multifunktionslenkrad**
+  - Navigationssystem
+  - Nebelscheinwerfer
+  - Nichtraucher-Fahrzeug
+  - **Notbremsassistent**
+  - Pannenkit
+  - Radio DAB
+  - **Regensensor**
+  - Reifendruckkontrolle
+  - Schaltwippen
+  - Scheckheftgepflegt
+  - Schlüssellose Zentralverriegelung
+  - Servolenkung
+  - Soundsystem
+  - **Start/Stopp-Automatik**
+  - **Tempomat (Adaptiv)**
+  - **Totwinkel-Assistent**
+  - **Traktionskontrolle**
+  - **USB**
+  - Zentralverriegelung
+## 2.2. Optional:
+  - Android Auto, Apple CarPlay
+  - Armlehne
+  - Beheizbares Lenkrad
+  - Elektr. Heckklappe
+  - Elektr. Sitzeinstellung
+  - Elektr. Wegfahrsperre
+  - Kurvenlicht
+  - Lederlenkrad
+  - Lordosenstütze
+  - Navigationsvorbereitung
+  - Scheinwerferreinigung
+  - Sitzheizung
+  - Sportsitze
+  - Sprachsteuerung
+  - Touchscreen
+  - Tuner/Radio
