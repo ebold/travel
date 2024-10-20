@@ -34,6 +34,7 @@
   - **ABS**
   - **Abstandswarner**
   - **Anhängerkupplung (abnehmbar)**
+  - Armlehne
   - Ausparkassistent
   - **Berganfahrassistent**
   - Bluetooth
@@ -46,10 +47,13 @@
   - Gepäckraumabtrennung
   - **Innenspiegel autom. abblendend**
   - **Isofix**
+  - **Keyless**
+  - **Klimaautomatik**
   - LED-Scheinwerfer
   - **LED-Tagfahrlicht**
   - Leichtmetallfelgen
   - **Lichtsensor**
+  - Lordosenstütze
   - **Multifunktionslenkrad**
   - Navigationssystem
   - Nebelscheinwerfer
@@ -64,7 +68,7 @@
   - Schlüssellose Zentralverriegelung
   - Servolenkung
   - Soundsystem
-  - **Start/Stopp-Automatik**
+  - Start/Stopp-Automatik
   - **Tempomat (Adaptiv)**
   - **Totwinkel-Assistent**
   - **Traktionskontrolle**
@@ -72,14 +76,12 @@
   - Zentralverriegelung
 ## 2.2. Optional:
   - Android Auto, Apple CarPlay
-  - Armlehne
   - Beheizbares Lenkrad
   - Elektr. Heckklappe
   - Elektr. Sitzeinstellung
   - Elektr. Wegfahrsperre
   - Kurvenlicht
   - Lederlenkrad
-  - Lordosenstütze
   - Navigationsvorbereitung
   - Scheinwerferreinigung
   - Sitzheizung
