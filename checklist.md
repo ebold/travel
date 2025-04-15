@@ -2,6 +2,7 @@
 
 ## Vor der Abreise
 
+- [ ] Ayan zamiin eruul
 - [ ] Wertsachen deponieren/verstecken
 - [ ] Blumengießen organisieren
 - [ ] Haustier-Pflege organisieren
@@ -99,7 +100,8 @@
 - [ ] Bargeld, Traveler Checks
 - [ ] Ausweise (gültig?)
 - [ ] Notfalltelefonnummern
-- [ ] Grüne Versicherungskarte
+- [ ] Ausland-Schadenschutz (Kfz-Versicherung)
+- [ ] Grüne Versicherungskarte (Kfz-Versicherung)
 - [ ] Visum
 - [ ] Schutzbrief, Intl. Führerschein
 - [ ] Vignette / Streckenmaut (online?)
