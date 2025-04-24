@@ -89,3 +89,19 @@
   - Sprachsteuerung
   - Touchscreen
   - Tuner/Radio
+## 2.3. Toyota specific
+  - Smart View Mirror
+  - Sicherheit (Safety Sense)
+    - Pre-Collision (Fahrradfahrer-Erkennung)
+    - Pre-Collision (Fußgänger-Erkennung)
+    - Adaptive Geschwindigkeitsregelanlage mit Spurverfolgung
+    - Spurhalteassistent
+  - Technik-Paket
+    - Toter-Winkel-Warner (BSM)
+    - Rückfahr-Assistent (RCTA)
+    - Smart-Key-System
+    - Hecklappe, elektrisch
+    - Digitalradio (DAB+)
+    - Kabelloses Laden (Smartphone)
+    - Außenspiegel mit Ausstiegsbeleuchtung
+      
